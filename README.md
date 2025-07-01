@@ -4,7 +4,7 @@ Leo's Ansible SWE Assessment Submission
 
 ## Overview
 
-This repository contains Leo's submission for the Ansible Software Engineering Assessment. The project demonstrates proficiency in Python programming, Google API integration, and document processing automation.
+This repository contains Leo's submission for the Ansible Software Engineering Assessment. The project demonstrates proficiency in Python programming, Google API integration, and document processing automation. Used Claude AI heavily.
 
 ## Project Contents
 
